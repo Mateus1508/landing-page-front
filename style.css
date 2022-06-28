@@ -30,9 +30,9 @@ main {
     justify-content: center;
     display: flex;
     flex-wrap: wrap;
-    color: 	#fffb00;
+    color: 	#FFFFFF;
     padding-bottom: 50px;
-    border-bottom: 1px solid #fff;
+    border-bottom: 1px solid #FFFFFF;
   
 }
 
@@ -62,7 +62,7 @@ main {
 }
 
 p {
-    color: #F0F8FF;
+    color: #FFFFF;
 }
 
 
@@ -117,7 +117,7 @@ p {
 
 .card-1, .card-2, .card-3, .card-4, .card-5 {
     flex-direction: column;
-    border: 3px solid #F0F8FF;
+    border: 3px solid #FFFFF;
     border-radius: 4px;
     padding: 10px;
     width: minmax(250px);
